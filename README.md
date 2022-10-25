@@ -1,4 +1,2 @@
 # Forecasting Temperature using ARIMA
-A complete implementation of ARIMA modelling for a time series data
-
-This is a step by step forecasting of the daily low temperatures using ARIMA. 
+This is an exercise in forecasting daily temperatures using ARIMA. The purpose of the repo is to educate the reader in a practical step by step implementation of ARIMA
